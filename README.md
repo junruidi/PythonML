@@ -1,2 +1,2 @@
 # PythonML
- Python machine learning scientist
+Study repo for the Python Machine Learning Career Track
